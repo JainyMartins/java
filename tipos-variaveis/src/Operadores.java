@@ -1,18 +1,15 @@
+import java.util.Scanner;
 public class Operadores {
     public static void main (String[] args){
-        String concatenacao ="?";
+// Abaixo segue um exemplo de código que você pode ou não utilizar
+                Scanner sc = new Scanner(System.in);
 
-        concatenacao = 1+1+1+"1";
+                int A, B, PROD;
 
-        concatenacao = 1+"1"+1+1;
+                A = sc.nextInt();
+                B = sc.nextInt();
+                PROD = A * B;
 
-        concatenacao = 1+"1"+1+"1";
-
-        concatenacao = "1"+1+1+1;
-
-        concatenacao = "1"+(1+1+1);
-
-        int numero = 5;
-        System.out.println(- numero);
+                System.out.println("PROD = " +  PROD   );
     }
 }
