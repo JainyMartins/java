@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaee76c9-e031-4331-afd8-bdfa8629c187" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/atribuicao-referencia/atribuicao-referencia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autodromo/autodromo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/construtores/construtores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conta-banco/conta-banco.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contador-desafio/contador-desafio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-banco-digital/desafio-banco-digital.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enums/enums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/escola/escola.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos-pacote/exemplos-pacote.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fila/fila.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iphone/iphone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-circular/lista-circular.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-duplamente-encadeada/lista-duplamente-encadeada.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista-encadeada/lista-encadeada.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/messengers/messengers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pacotes-e-classes/pacotes-e-classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pilha/pilha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-no/projeto-no.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-smart-tv" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-smart-tv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-smart-tv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-smart-tv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sistema-smart-tv/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/terminal-e-argumentos/terminal-e-argumentos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ir2Rsqo08xtgwEp2wnWcPnkIN1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaee76c9-e031-4331-afd8-bdfa8629c187" name="Changes" comment="" />
+      <created>1670925400491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670925400491</updated>
+    </task>
+    <servers />
+  </component>
+</project>
