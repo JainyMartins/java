@@ -1,0 +1,24 @@
+spring:
+  #Conexão com banco
+    datasource:
+      #essa parte no final do nome do BD
+        url: jdbc:postgresql://localhost:5432/academia?useTimeZone=true&serverTimeZone=UTC&useLegacyDate
+        username: postgres
+        password: admin
+  #vamos add show-sql pra mostrar no console, hibernate ddl update - a cada vez que reiniciar servidor
+    #faça um update - vai olhar se add algo, excluiu algo, etc - para atualizar
+    #tem várias opções na documentação além dessa
+    jpa:
+        show-sql: true
+        hibernate:
+            #se colocar drop em vez de update vai apagar todos os dados do bd
+            ddl-auto: update
+        properties:
+            hibernate.format_sql: true
+
+#vai aparecer tudo que está fazendo no hibernate
+logging:
+    level:
+        org:
+            hibernate:
+                type: trace
